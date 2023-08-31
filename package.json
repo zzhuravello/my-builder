@@ -1,0 +1,17 @@
+{
+  "name": "my-builder",
+  "version": "1.0.0",
+  "description": "zhuravello builder for test",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode development"
+  },
+  "author": "zhuravello",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^5.88.2"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  }
+}
